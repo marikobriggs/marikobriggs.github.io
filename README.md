@@ -1,6 +1,6 @@
 ### Mariko's Website
 
-#This is my first website/Github Page. 
+## This is my first website/Github Page. 
 
 I'm using this site to learn about... 
 - Github and Git
