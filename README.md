@@ -1,4 +1,4 @@
-### Mariko's Website
+## Mariko's Website
 
 ## This is my first website/Github Page. 
 
