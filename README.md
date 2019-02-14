@@ -1,9 +1,5 @@
 ## Nice to meet you! 
 
-![Image](
-        marikobriggs.github.io/pixelbig_cropped.png
-      )
-
 I am a computer science student at the University of Washington, Tacoma. 
 
 ## My Goals
