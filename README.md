@@ -1,8 +1,6 @@
-## Nice to meet you! 
+### Mariko's Website
 
-I am a computer science student at the University of Washington, Tacoma. 
-
-## My Goals
+#This is my first website/Github Page. 
 
 I'm using this site to learn about... 
 - Github and Git
@@ -10,6 +8,5 @@ I'm using this site to learn about...
 
 Hopefully, this site will function as an active resume and portfolio of my work. Check it out! 
 
-### Main Links
-
-Check out some of my work on [Github](https://github.com/marikobriggs) and [Gitlab](https://gitlab.com/mkbriggs?nav_source=navbar). 
+## Cayman Theme 
+This site was produced using the [Cayman Theme](https://github.com/pages-themes/cayman) for Github Pages. Modifications were done via simple HTML/CSS changes. 
