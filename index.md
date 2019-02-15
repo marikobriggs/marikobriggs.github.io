@@ -17,3 +17,8 @@ Hopefully, this site will function as an active resume and portfolio of my work.
 ### Main Links
 
 Check out some of my work on [Github](https://github.com/marikobriggs) and [Gitlab](https://gitlab.com/mkbriggs?nav_source=navbar). 
+
+![Image](
+        marikobriggs.github.io/_images/cropped big mountain.png
+      )
+      
